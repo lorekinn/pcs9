@@ -1,20 +1,17 @@
-<<<<<<< HEAD
-# app1
+# Практическая работа #8-9
+Михайлов Денис ЭФБО-06-22
 
-A new Flutter project.
+# API проекта
 
-## Getting Started
+https://github.com/lorekinn/shop_api/tree/master
 
-This project is a starting point for a Flutter application.
+## Работоспособность проекта
 
-A few resources to get you started if this is your first Flutter project:
+Отображение главной страницы с помощью GET
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![image](https://github.com/user-attachments/assets/937acfeb-3210-4622-b303-bf488ce92bb6)
+![image](https://github.com/user-attachments/assets/090ab424-a04c-427f-ac8a-244dc44aee79)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# pcs1
->>>>>>> fdc77a515eb182327499655cc0e291a9a3e87d04
+Добавление нового товара с помощью POST
+![image](https://github.com/user-attachments/assets/2828d20e-a2c9-409e-802c-8c011050b46d)
+
